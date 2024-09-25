@@ -4,7 +4,9 @@
 \name{DataSet5.1}
 \alias{DataSet5.1}
 \title{Data for Example 5.1 from Generalized Linear Mixed Models: Modern Concepts, Methods and Applications by Walter W. Stroup}
-\format{A \code{data.frame} with 14 rows and 3 variables.}
+\format{
+A \code{data.frame} with 14 rows and 3 variables.
+}
 \usage{
 data(DataSet5.1)
 }
@@ -21,12 +23,6 @@ DataSet5.1 is used for polynomial multiple regression
 \examples{
 data(DataSet5.1)
 }
-\author{
-\enumerate{
-         \item  Muhammad Yaseen (\email{myaseen208@gmail.com})
-         \item Adeela Munawar (\email{adeela.uaf@gmail.com})
-         }
-}
 \references{
 \enumerate{
 \item Stroup, W. W. (2012).\emph{Generalized linear mixed models: modern concepts, methods and applications}.
@@ -36,5 +32,10 @@ data(DataSet5.1)
 \seealso{
 \code{\link{Exam5.1}}
 }
+\author{
+\enumerate{
+         \item  Muhammad Yaseen (\email{myaseen208@gmail.com})
+         \item Adeela Munawar (\email{adeela.uaf@gmail.com})
+         }
+}
 \keyword{datasets}
-

@@ -4,7 +4,9 @@
 \name{DataSet3.3}
 \alias{DataSet3.3}
 \title{Data for Example3.7 from Generalized Linear Mixed Models: Modern Concepts, Methods and Applications by Walter W. Stroup}
-\format{A \code{data.frame} with 36 rows and 6 variables.}
+\format{
+A \code{data.frame} with 36 rows and 6 variables.
+}
 \usage{
 data(DataSet3.3)
 }
@@ -24,17 +26,16 @@ Exam1.2 is used to see types of model effects by plotting regression data
 \examples{
 data(DataSet3.3)
 }
-\author{
-\enumerate{
-         \item  Muhammad Yaseen (\email{myaseen208@gmail.com})
-         \item Adeela Munawar (\email{adeela.uaf@gmail.com})
-         }
-}
 \references{
 \enumerate{
 \item Stroup, W. W. (2012).\emph{Generalized linear mixed models: modern concepts, methods and applications}.
              CRC press.
  }
 }
+\author{
+\enumerate{
+         \item  Muhammad Yaseen (\email{myaseen208@gmail.com})
+         \item Adeela Munawar (\email{adeela.uaf@gmail.com})
+         }
+}
 \keyword{datasets}
-

@@ -4,7 +4,9 @@
 \name{DataSet3.1}
 \alias{DataSet3.1}
 \title{Data for Example 3.1 and Example 3.2 from Generalized Linear Mixed Models: Modern Concepts, Methods and Applications by Walter W. Stroup}
-\format{A \code{data.frame} with 20 rows and 5 variables.}
+\format{
+A \code{data.frame} with 20 rows and 5 variables.
+}
 \usage{
 data(DataSet3.1)
 }
@@ -23,12 +25,6 @@ DataSet3.1 is used for linear and generalized linear models
 \examples{
 data(DataSet3.1)
 }
-\author{
-\enumerate{
-         \item  Muhammad Yaseen (\email{myaseen208@gmail.com})
-         \item Adeela Munawar (\email{adeela.uaf@gmail.com})
-         }
-}
 \references{
 \enumerate{
 \item Stroup, W. W. (2012).\emph{Generalized linear mixed models: modern concepts, methods and applications}.
@@ -38,5 +34,10 @@ data(DataSet3.1)
 \seealso{
 \code{\link{Exam3.2}}
 }
+\author{
+\enumerate{
+         \item  Muhammad Yaseen (\email{myaseen208@gmail.com})
+         \item Adeela Munawar (\email{adeela.uaf@gmail.com})
+         }
+}
 \keyword{datasets}
-

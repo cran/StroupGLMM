@@ -4,7 +4,9 @@
 \name{DataExam2.B.4}
 \alias{DataExam2.B.4}
 \title{Data for Example 2.B.4 from Generalized Linear Mixed Models: Modern Concepts, Methods and Applications by Walter W. Stroup (p-54)}
-\format{A \code{data.frame} with 6 rows and 4 variables.}
+\format{
+A \code{data.frame} with 6 rows and 4 variables.
+}
 \usage{
 data(DataExam2.B.4)
 }
@@ -22,12 +24,6 @@ Exam2.B.4 is used to illustrate one way treatment design with Binomial observati
 \examples{
 data(DataExam2.B.4)
 }
-\author{
-\enumerate{
-         \item  Muhammad Yaseen (\email{myaseen208@gmail.com})
-         \item Adeela Munawar (\email{adeela.uaf@gmail.com})
-         }
-}
 \references{
 \enumerate{
 \item Stroup, W. W. (2012).\emph{Generalized linear mixed models: modern concepts, methods and applications}.
@@ -37,5 +33,10 @@ data(DataExam2.B.4)
 \seealso{
 \code{\link{Exam2.B.4}}
 }
+\author{
+\enumerate{
+         \item  Muhammad Yaseen (\email{myaseen208@gmail.com})
+         \item Adeela Munawar (\email{adeela.uaf@gmail.com})
+         }
+}
 \keyword{datasets}
-

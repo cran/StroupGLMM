@@ -4,7 +4,9 @@
 \name{DataExam2.B.2}
 \alias{DataExam2.B.2}
 \title{Data for Example 2.B.2 from Generalized Linear Mixed Models: Modern Concepts, Methods and Applications by Walter W. Stroup (p-54)}
-\format{A \code{data.frame} with 11 rows and 3 variables.}
+\format{
+A \code{data.frame} with 11 rows and 3 variables.
+}
 \usage{
 data(DataExam2.B.2)
 }
@@ -14,18 +16,12 @@ Exam2.B.2 is used to visualize the effect of glm model statement with binomial d
 \details{
 \itemize{
        \item x independent variable
-       \item n bernouli trials(bernouli outcomes on each individual)
-       \item y  number of successes on each individual
-       }
+       \item n bernouli trials (bernouli outcomes on each individual)
+       \item y number of successes on each individual
+     }
 }
 \examples{
 data(DataExam2.B.2)
-}
-\author{
-\enumerate{
-         \item  Muhammad Yaseen (\email{myaseen208@gmail.com})
-         \item Adeela Munawar (\email{adeela.uaf@gmail.com})
-         }
 }
 \references{
 \enumerate{
@@ -34,7 +30,12 @@ data(DataExam2.B.2)
  }
 }
 \seealso{
-\code{\link{Exam2.B.2}}
+\link{Exam2.B.2}
+}
+\author{
+\enumerate{
+         \item  Muhammad Yaseen (\email{myaseen208@gmail.com})
+         \item Adeela Munawar (\email{adeela.uaf@gmail.com})
+         }
 }
 \keyword{datasets}
-

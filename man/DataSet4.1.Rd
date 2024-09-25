@@ -4,7 +4,9 @@
 \name{DataSet4.1}
 \alias{DataSet4.1}
 \title{Data for Example 4.1 from Generalized Linear Mixed Models: Modern Concepts, Methods and Applications by Walter W. Stroup}
-\format{A \code{data.frame} with 60 rows and 3 variables.}
+\format{
+A \code{data.frame} with 60 rows and 3 variables.
+}
 \usage{
 data(DataSet4.1)
 }
@@ -21,12 +23,6 @@ DataSet4.1 comes from Cochran and Cox (1957) Experimental Design
 \examples{
 data(DataSet4.1)
 }
-\author{
-\enumerate{
-         \item  Muhammad Yaseen (\email{myaseen208@gmail.com})
-         \item Adeela Munawar (\email{adeela.uaf@gmail.com})
-         }
-}
 \references{
 \enumerate{
 \item Stroup, W. W. (2012).\emph{Generalized linear mixed models: modern concepts, methods and applications}.
@@ -37,5 +33,10 @@ data(DataSet4.1)
 \seealso{
 \code{\link{Exam4.1}}
 }
+\author{
+\enumerate{
+         \item  Muhammad Yaseen (\email{myaseen208@gmail.com})
+         \item Adeela Munawar (\email{adeela.uaf@gmail.com})
+         }
+}
 \keyword{datasets}
-
